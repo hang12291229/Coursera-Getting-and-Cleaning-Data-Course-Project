@@ -40,34 +40,29 @@ subject: The ID of the test subject
 activity: The type of activity performed when the corresponding measurements were taken
 
 Measurements extracted for this project 
-"tBodyAccMag-mean()" 
-"tBodyAccMag-std()" 
-"tGravityAccMag-mean()" 
-"tGravityAccMag-std()" 
-"tBodyAccJerkMag-mean()" 
-"tBodyAccJerkMag-std()" 
-"tBodyGyroMag-mean()" 
-"tBodyGyroMag-std()" 
-"tBodyGyroJerkMag-mean()" 
-"tBodyGyroJerkMag-std()" 
-"fBodyAccMag-mean()" 
-"fBodyAccMag-std()" 
-"fBodyBodyAccJerkMag-mean()" 
-"fBodyBodyAccJerkMag-std()" 
-"fBodyBodyGyroMag-mean()" 
-"fBodyBodyGyroMag-std()" 
-"fBodyBodyGyroJerkMag-mean()" 
-"fBodyBodyGyroJerkMag-std()"
+- "tBodyAccMag-mean()" 
+- "tBodyAccMag-std()" 
+- "tGravityAccMag-mean()" 
+- "tGravityAccMag-std()" 
+- "tBodyAccJerkMag-mean()" 
+- "tBodyAccJerkMag-std()" 
+- "tBodyGyroMag-mean()" 
+- "tBodyGyroMag-std()" 
+- "tBodyGyroJerkMag-mean()" 
+- "tBodyGyroJerkMag-std()" 
+- "fBodyAccMag-mean()" 
+- "fBodyAccMag-std()" 
+- "fBodyBodyAccJerkMag-mean()" 
+- "fBodyBodyAccJerkMag-std()" 
+- "fBodyBodyGyroMag-mean()" 
+- "fBodyBodyGyroMag-std()" 
+- "fBodyBodyGyroJerkMag-mean()" 
+- "fBodyBodyGyroJerkMag-std()"
 
 Activity Labels
 (1) WALKING
-
 (2) WALKING_UPSTAIRS
-
 (3) WALKING_DOWNSTAIRS
-
 (4) SITTING
-
 (5) STANDING
-
 (6) LAYING
