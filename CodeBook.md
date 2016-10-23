@@ -1,12 +1,12 @@
-Description
+#Description
 
 Additional information about the variables, data and transformations used in the course project for Getting and Cleaning Data course. 
 
-Source Data
+#Source Data
 
 A full description of the data used in this project can be found at the UCI Machine Learning Repository
 
-Background Information
+#Background Information
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
@@ -35,11 +35,13 @@ The following files are available for the train and test data. Their description
 - 'train/Inertial Signals/body_acc_x_train.txt': The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
-Identifiers
+##Identifiers
+
 subject: The ID of the test subject
+
 activity: The type of activity performed when the corresponding measurements were taken
 
-Measurements extracted for this project 
+##Measurements extracted for this project 
 - "tBodyAccMag-mean()" 
 - "tBodyAccMag-std()" 
 - "tGravityAccMag-mean()" 
@@ -59,10 +61,16 @@ Measurements extracted for this project
 - "fBodyBodyGyroJerkMag-mean()" 
 - "fBodyBodyGyroJerkMag-std()"
 
-Activity Labels
+##Activity Labels
+
 (1) WALKING
+
 (2) WALKING_UPSTAIRS
+
 (3) WALKING_DOWNSTAIRS
+
 (4) SITTING
+
 (5) STANDING
+
 (6) LAYING
